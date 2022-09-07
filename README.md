@@ -1,6 +1,12 @@
+# Email finder
+
+
 # Prerequisites
 
 [Python 3](https://www.python.org/downloads/)
+
+Register at the [whoisxmlapi](https://user.whoisxmlapi.com/products) website and get your API key.
+
 
 
 # Install
