@@ -1,5 +1,6 @@
 # Email finder
 
+Email finder checks if a list of emails exists with the Whois API, via SMTP connection checks.
 
 # Prerequisites
 
